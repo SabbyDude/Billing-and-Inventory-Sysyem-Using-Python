@@ -1,0 +1,12 @@
+					  AMITY Store
+				 Amity University Rajasthan
+				     Phone-:1122334455
+					   Invoice No.-:154
+				      11 : 4 : 13
+				      28 /Nov /2022
+
+		------------------------------------------------------
+	     Sno.		Product Name		Quantity	Total
+	     1		MAYONAISE GREEN		1		45		
+	     2		APPLE PIE		1		15		
+	     3		BROWNIES		1		50		

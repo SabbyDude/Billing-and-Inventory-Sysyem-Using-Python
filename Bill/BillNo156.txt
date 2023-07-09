@@ -1,0 +1,10 @@
+					  AMITY Store
+				 Amity University Rajasthan
+				     Phone-:1122334455
+					   Invoice No.-:156
+				      22 : 44 : 5
+				      25 /Feb /2023
+
+		------------------------------------------------------
+	     Sno.		Product Name		Quantity	Total
+	     1		BISCUITS CHOCOLATE		1		15		

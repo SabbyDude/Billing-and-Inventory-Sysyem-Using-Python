@@ -1,0 +1,13 @@
+					  AMITY Store
+				 Amity University Rajasthan
+				     Phone-:1122334455
+					   Invoice No.-:155
+				      22 : 24 : 49
+				      25 /Feb /2023
+
+		------------------------------------------------------
+	     Sno.		Product Name		Quantity	Total
+	     1		BEER BOTTLE		1		200		
+	     2		TOFFEES		1		5		
+	     3		MENTOS LEMON		1		15		
+	     4		BUNS		1		40		

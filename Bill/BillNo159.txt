@@ -1,0 +1,11 @@
+					  SabbyDoof Store
+				 Amity University Rajasthan
+				     Phone-:1122334455
+					   Invoice No.-:159
+				      19 : 38 : 6
+				      14 /May /2023
+
+		------------------------------------------------------
+	     Sno.		Product Name		Quantity	Total
+	     1		FACE WASH		1		89		
+	     2		CHEESE		2		100		
